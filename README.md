@@ -62,6 +62,5 @@ This pipeline breaks down video captioning into three main stages:
 video-captioning-blip/
 ├── video_captioning.py        # Main Python script
 ├── requirements.txt           # Dependency list
-├── example_videos/            # Your short clips go here
-├── outputs/                   # (Optional) Generated summaries
+├── example_videos/            # short clips go here
 └── README.md                  # You're reading this!
