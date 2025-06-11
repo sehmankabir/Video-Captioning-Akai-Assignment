@@ -1,0 +1,6 @@
+transformers
+torch
+opencv-python
+accelerate
+pillow
+google-colab
